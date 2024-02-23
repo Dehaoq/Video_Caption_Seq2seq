@@ -1,0 +1,1 @@
+python3 eval.py /home/dehaoq/HW2/dataset2 out2.txt
